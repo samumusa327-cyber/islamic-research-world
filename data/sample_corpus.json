@@ -1,0 +1,40 @@
+[
+  {
+    "id": "quran:2:238",
+    "title": "Quran 2:238",
+    "category": "quran",
+    "language": "ar",
+    "text": "حَافِظُوا عَلَى الصَّلَوَاتِ وَالصَّلَاةِ الْوُسْطَى",
+    "original": "حَافِظُوا عَلَى الصَّلَوَاتِ وَالصَّلَاةِ الْوُسْطَى",
+    "metadata": {"surah": "2", "ayah": "238", "surah_name_ar": "البقرة", "surah_name_en": "Al-Baqarah"},
+    "url": "https://example.com/quran/2:238"
+  },
+  {
+    "id": "hadith:bukhari:1",
+    "title": "Sahih al-Bukhari - Hadith 1",
+    "category": "hadith",
+    "language": "ar",
+    "text": "قال رسول الله صلى الله عليه وسلم: \"من كذب علي متعمدا فليتبوأ مقعده من النار\"",
+    "original": "قال رسول الله صلى الله عليه وسلم: \"من كذب علي متعمدا فليتبوأ مقعده من النار\"",
+    "metadata": {"collection": "Sahih al-Bukhari", "hadith_number": "1", "book": "Kitab al-Iman"},
+    "url": "https://example.com/hadith/bukhari-1"
+  },
+  {
+    "id": "madhhab:hanafi:salah:raising-hands",
+    "title": "Hanafi position on raising hands in salah",
+    "category": "madhhab",
+    "language": "en",
+    "text": "Generally accepted at the beginning of the prayer at takbir and at the start of bowing in the Hanafi school.",
+    "metadata": {"madhhab": "Hanafi", "work": "Al-Fiqh al-Akbar"},
+    "url": "https://example.com/hanafi-salah"
+  },
+  {
+    "id": "fatwa:ibn-baz:salah",
+    "title": "Ibn Baz - Fatwa on Raising Hands",
+    "category": "fatwa",
+    "language": "en",
+    "text": "The scholar discussed the Sunnah of beginning prayer with the takbir and raising the hands according to the evidence.",
+    "metadata": {"scholar": "Ibn Baz"},
+    "url": "https://example.com/ibn-baz/fatwa-salah"
+  }
+]
